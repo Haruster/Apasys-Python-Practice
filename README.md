@@ -1,2 +1,2 @@
-# Kinesys-Python-Practice
+# Nephael-Python-Practice
 Python Practice
